@@ -6,6 +6,8 @@ and [LaTeX](https://www.latex-project.org/).
 
 ![LGBTQ+ logotype in the style of TeX and LaTeX](lgbtex.png)
 
+## Background
+
 It started as a [question](https://hachyderm.io/@lambdasierra/112339737898462718):
 
 > Has anyone done a TeX style typographic logo for LGBTQ+ ? 
@@ -15,6 +17,29 @@ No one answered, so I decided to make one.
 
 Others have asked the question,
 [How to make text like the TeX/LaTeX logo?](https://tex.stackexchange.com/q/519789)
+Using that as a starting point,
+I tinkered with kerning until I got something that I liked.
+
+## Prerequisites
+
+To build from source, you will need:
+
+* a [TeX installation](https://www.tug.org/begin.html) for the `pdflatex` command
+* [ImageMagick](https://imagemagick.org/) for the `convert` command
+* [GNU Make](https://www.gnu.org/software/make/) or equivalent `make` command
+
+## Build
+
+To build from source,
+`cd` to the top-level directory of this repository and run:
+
+    make
+
+The output files are `lgbtex.pdf` and `lgbtex.png`.
+
+To remove the generated files, run:
+
+    make clean
 
 ## License
 
