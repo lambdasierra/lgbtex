@@ -4,7 +4,7 @@ A typographic logo
 inspired by [TeX](https://tug.org/)
 and [LaTeX](https://www.latex-project.org/).
 
-![LGBTQ+ logotype in the style of TeX and LaTeX](lgbtex.png)
+![LGBTQ+ logotype in the style of TeX and LaTeX](https://github.com/lambdasierra/lgbtex/assets/105090644/decce633-7807-4b16-b06c-dcf651a1f594)
 
 ## Background
 
