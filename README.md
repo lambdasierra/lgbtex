@@ -4,6 +4,8 @@ A typographic logo
 inspired by [TeX](https://tug.org/)
 and [LaTeX](https://www.latex-project.org/).
 
+![LGBTQ+ logotype in the style of TeX and LaTeX](lgbtex.png)
+
 It started as a [question](https://hachyderm.io/@lambdasierra/112339737898462718):
 
 > Has anyone done a TeX style typographic logo for LGBTQ+ ? 
