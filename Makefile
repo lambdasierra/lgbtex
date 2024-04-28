@@ -5,12 +5,11 @@ MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
 .PHONY: all
-all: logo.pdf
+all: lgbtex.pdf
 
-logo.pdf: logo.tex
-	pdflatex -shell-escape logo.tex
+lgbtex.pdf: lgbtex.tex
+	pdflatex -shell-escape lgbtex.tex
 
 .PHONY: clean
 clean:
-	rm -f logo.aux logo.log logo.pdf logo.png
-
+	rm -f lgbtex.aux lgbtex.log lgbtex.pdf lgbtex.png
