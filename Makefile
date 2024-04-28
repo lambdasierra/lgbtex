@@ -13,3 +13,6 @@ lgbtex.pdf: lgbtex.tex
 .PHONY: clean
 clean:
 	rm -f lgbtex.aux lgbtex.log lgbtex.pdf lgbtex.png
+
+lgbtex-light.png: lgbtex.png
+	convert lgbtex.png -background white -flatten lgbtex-light.png
