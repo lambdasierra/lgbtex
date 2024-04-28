@@ -6,6 +6,11 @@ and [LaTeX](https://www.latex-project.org/).
 
 ![LGBTQ+ logotype in the style of TeX and LaTeX](https://github.com/lambdasierra/lgbtex/assets/105090644/decce633-7807-4b16-b06c-dcf651a1f594)
 
+## Downloads
+
+* PDF: [lgbtex.pdf](https://github.com/lambdasierra/lgbtex/releases/download/v0.2.0/lgbtex.pdf)
+* PNG with transparent background: [lgbtex.png](https://github.com/lambdasierra/lgbtex/releases/download/v0.2.0/lgbtex.png)
+
 ## Background
 
 It started as a [question](https://hachyderm.io/@lambdasierra/112339737898462718):
