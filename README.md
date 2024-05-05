@@ -37,9 +37,13 @@ To build from source,
 
     make
 
-The output files are `lgbtex.pdf` and `lgbtex.png`.
+The output files are:
 
-To remove the generated files, run:
+* `lgbtex.pdf` - PDF
+* `lgbtex.png` - PNG, black text with transparent background
+* `lgbtex-light.png` - PNG, black text on white background
+
+To remove the generated and temporary files, run:
 
     make clean
 
