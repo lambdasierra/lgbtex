@@ -13,17 +13,14 @@ and [LaTeX](https://www.latex-project.org/).
 
 ## Background
 
-It started as a [question](https://hachyderm.io/@lambdasierra/112339737898462718):
+For the full story, see [my blog post](https://www.lambdasierra.com/2024/lgbtex/).
 
-> Has anyone done a TeX style typographic logo for LGBTQ+ ? 
-> That must be a thing, right?
+Inspired by the logos of [TeX](https://tug.org/)
+and related software such as [LaTeX](https://www.latex-project.org/)
+and [BibTeX](https://www.bibtex.org/).
 
-No one answered, so I decided to make one.
-
-Others have asked the question,
-[How to make text like the TeX/LaTeX logo?](https://tex.stackexchange.com/q/519789)
-Using that as a starting point,
-I tinkered with kerning until I got something that I liked.
+The code follows examples in 
+[How to make text like the TeX/LaTeX logo?](https://tex.stackexchange.com/q/519789) (StackOverflow).
 
 ## Prerequisites
 
