@@ -8,8 +8,9 @@ and [LaTeX](https://www.latex-project.org/).
 
 ## Downloads
 
-* PDF: [lgbtex.pdf](https://github.com/lambdasierra/lgbtex/releases/download/v0.2.0/lgbtex.pdf)
-* PNG with transparent background: [lgbtex.png](https://github.com/lambdasierra/lgbtex/releases/download/v0.2.0/lgbtex.png)
+* PDF: [lgbtex.pdf](https://github.com/lambdasierra/lgbtex/releases/download/v0.3.0/lgbtex.pdf)
+* PNG with transparent background: [lgbtex.png](https://github.com/lambdasierra/lgbtex/releases/download/v0.3.0/lgbtex.png)
+* PNG with white background: [lgbtex-light.png](https://github.com/lambdasierra/lgbtex/releases/download/v0.3.0/lgbtex-light.png)
 
 ## Background
 
